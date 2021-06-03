@@ -1,0 +1,9 @@
+Tiếng Việt
+1. https://toidicode.com/hoc-javascript-co-ban
+2. https://webcoban.vn/javascript/tai-lieu-hoc-javascript
+
+
+Tiếng Anh
+1. https://www.tutorialspoint.com/javascript/
+2. https://javascript.info/
+3. http://index-of.es/Programming/JavaScript/Head%20First%20Java%20Script.pdf
