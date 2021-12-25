@@ -42,9 +42,11 @@ console.log(test1);
 console.log(test2);
 
 // Optional chaining
-console.log(user2?.name); // check undefined
+if (user2) {
+    console.log(user2.name);
+}
 //console.log(user2.name);
-user1.hello?.();
+//user1.hello?.();
 
 // ****************************Can using Symbol to using hidden property****************************************
 //.......................................................
