@@ -8,7 +8,7 @@ function example1() {
 
     console.log(typeof (a));
 
-    if (a === 1) {
+    if (a === 5) {
         console.log("compare with type of varible");
     } else if (a == 1) {
         console.log("compare without type of varible");
